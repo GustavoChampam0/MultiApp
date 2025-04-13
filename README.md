@@ -38,7 +38,7 @@ Aplicação SPA (Single Page Application) construída com **React**, **TailwindC
 ## 🚀 Deploy
 
 - 🔗 GitHub: [https://github.com/GustavoChampam0/MultiApp](https://github.com/GustavoChampam0/MultiApp)
-- 🌐 Vercel: (https://multi-app-chi.vercel.app/)
+- 🌐 Vercel: https://multi-app-chi.vercel.app/
 
 ---
 
